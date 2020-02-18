@@ -1,3 +1,9 @@
+## About it
+
+Il s'agit d'un jeu en ligne de commande de chi-fou-mi.
+Un joueur joue contre un ordinateur. Il peut choisir le nombre d parties à jouer ainsi que la statégie de l'ordinateur (choix aléatoire ou choix depuis un fichier).
+
+
 ## Running end-to-end tests
 
 Le jeu est une application springboot 2.1.14.
